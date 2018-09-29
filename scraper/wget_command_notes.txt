@@ -1,0 +1,5 @@
+wget --header="Cookie: CloudFront-Key-Pair-Id=APKAIPMYRDQXV3PXG2XA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vKi5lY2hvMzYwLm9yZy8qZDQyMmRmNzUtYzg0OC00ZTVlLWIzNzUtZTQ2ODkzZDRkZThhLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1MzgxODMwODJ9fX1dfQ__; CloudFront-Signature=1tpv2Mh-PMZEMRtmT5NLpuou1IZxbsi3gM8fhnGYM64MhZu~1i8Z~ARKL9NNP1n00QfMdENsQwdbkEhIFa7ehpVEd~st3RcJK6M6fJx9LVsRv70COvGkFuPZLLTwULEWz0W71Pzb3vOTKX3Ffmn5IQbSnYImySk6ryCeLJcrNALNb4kFDk~CuDdasuAEi0wTs9CZDcL-hTpuTV9qMBJ8Ro6sTFIdtKK7JOigNxjETSQ6SYLf8A1tYwEdLHGQ5BAMXw57T16jwZzfiTPDaq4zmxoL6eCTtGOItDGRzA8-yDw~tjs5dyk7NVPJb4Gky~4oSZorJbzcyxio2Jrk0T5kcA__" --header="Connection: keep-alive" "https://content.echo360.org/5d42.d422df75-c848-4e5e-b375-e46893d4de8a/2728bfbe-34a8-4abc-9ea8-95b70675bfd0/sd1.mp4" -O "sd1.mp4" -c
+
+basic format
+
+wget --header="Cookie: CloudFront-Key-Pair-Id={value}; CloudFront-Policy={value}; CloudFront-Signature={value}" --header="Connection: keep-alive" "{media_url}" -O "fileName.extension" -c
