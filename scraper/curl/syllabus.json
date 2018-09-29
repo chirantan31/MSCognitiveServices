@@ -1,0 +1,4655 @@
+{
+  "status": "ok",
+  "message": "",
+  "data": [
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-08-27T09:00:00.000_2018-08-27T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180827T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-08-27T09:00:00.000",
+            "end": "2018-08-27T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-08-27T14:55:39.999Z",
+          "updatedAt": "2018-08-27T14:55:39.999Z",
+          "displayName": "CS 241-AL1"
+        },
+        "video": {
+          "media": {
+            "id": "2728bfbe-34a8-4abc-9ea8-95b70675bfd0",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "eb746fb5-8d3b-4a68-a136-82bc9ccd62be",
+            "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180827T1400",
+            "createdAt": "2018-08-27T14:00:00.723Z",
+            "updatedAt": "2018-08-27T15:34:01.099Z",
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "name": "CS 241-AL1",
+            "status": "Processed",
+            "media": {
+              "current": {
+                "mediaId": "2728bfbe-34a8-4abc-9ea8-95b70675bfd0",
+                "primaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/5d42.d422df75-c848-4e5e-b375-e46893d4de8a/2728bfbe-34a8-4abc-9ea8-95b70675bfd0/sd1.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55314411
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/5d42.d422df75-c848-4e5e-b375-e46893d4de8a/2728bfbe-34a8-4abc-9ea8-95b70675bfd0/hd1.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 206515136
+                  }
+                ],
+                "secondaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/5d42.d422df75-c848-4e5e-b375-e46893d4de8a/2728bfbe-34a8-4abc-9ea8-95b70675bfd0/sd2.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55306991
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/5d42.d422df75-c848-4e5e-b375-e46893d4de8a/2728bfbe-34a8-4abc-9ea8-95b70675bfd0/hd2.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 156409004
+                  }
+                ],
+                "audioFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/5d42.d422df75-c848-4e5e-b375-e46893d4de8a/2728bfbe-34a8-4abc-9ea8-95b70675bfd0/audio.mp3",
+                    "size": 66321020
+                  }
+                ],
+                "duration": "PT3179.967S",
+                "primaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/5d42.d422df75-c848-4e5e-b375-e46893d4de8a/2728bfbe-34a8-4abc-9ea8-95b70675bfd0/thumbnails1",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "secondaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/5d42.d422df75-c848-4e5e-b375-e46893d4de8a/2728bfbe-34a8-4abc-9ea8-95b70675bfd0/thumbnails2",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "primaryPosterImageUri": "https://thumbnails.echo360.org/5d42.d422df75-c848-4e5e-b375-e46893d4de8a/2728bfbe-34a8-4abc-9ea8-95b70675bfd0/poster1.jpg",
+                "secondaryPosterImageUri": "https://thumbnails.echo360.org/5d42.d422df75-c848-4e5e-b375-e46893d4de8a/2728bfbe-34a8-4abc-9ea8-95b70675bfd0/poster2.jpg"
+              },
+              "duration": 3179967,
+              "thumbnailUrl": "https://thumbnails.echo360.org/5d42.d422df75-c848-4e5e-b375-e46893d4de8a/2728bfbe-34a8-4abc-9ea8-95b70675bfd0/poster1.jpg",
+              "isAudio": false,
+              "type": "VideoPresentation"
+            },
+            "tags": [],
+            "isPublishable": true,
+            "mediaType": "Video"
+          },
+          "published": {
+            "lessonId": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-08-27T09:00:00.000_2018-08-27T09:53:00.000",
+            "mediaId": "2728bfbe-34a8-4abc-9ea8-95b70675bfd0",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+            "termName": "Fall 2018",
+            "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+            "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+            "lessonName": "CS 241-AL1",
+            "lessonTiming": {
+              "start": "2018-08-27T09:00:00.000",
+              "end": "2018-08-27T09:53:00.000"
+            },
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "courseName": "CS241 - System Programming",
+            "contentAvailability": {
+              "body": {},
+              "type": "Immediate"
+            },
+            "mediaType": "Video",
+            "createdAt": "2018-08-27T14:55:40.176Z",
+            "isAvailable": true,
+            "isDeleted": false,
+            "availabilityString": "Library.immediate",
+            "publishableMediaId": "2728bfbe-34a8-4abc-9ea8-95b70675bfd0"
+          },
+          "copyable": true
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "https://thumbnails.echo360.org/5d42.d422df75-c848-4e5e-b375-e46893d4de8a/2728bfbe-34a8-4abc-9ea8-95b70675bfd0/poster1.jpg",
+        "hasContent": true,
+        "hasAvailableVideo": true,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "2728bfbe-34a8-4abc-9ea8-95b70675bfd0",
+            "title": "CS 241-AL1",
+            "mediaType": "Video",
+            "coverImage": "https://thumbnails.echo360.org/5d42.d422df75-c848-4e5e-b375-e46893d4de8a/2728bfbe-34a8-4abc-9ea8-95b70675bfd0/poster1.jpg",
+            "isScheduled": false,
+            "isAvailable": true,
+            "isViewed": false,
+            "isDownloadable": true,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isOwned": false,
+            "downloadUri": "/media/download/original?mediaId=2728bfbe-34a8-4abc-9ea8-95b70675bfd0&fileName=CS+241-AL1",
+            "canCopy": true
+          },
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": true,
+        "isFuture": false,
+        "startTimeUTC": "2018-08-27T14:00:00.000Z",
+        "endTimeUTC": "2018-08-27T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-08-29T09:00:00.000_2018-08-29T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180829T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-08-29T09:00:00.000",
+            "end": "2018-08-29T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-08-29T14:55:30.873Z",
+          "updatedAt": "2018-08-29T14:55:30.873Z",
+          "displayName": "CS 241-AL1"
+        },
+        "video": {
+          "media": {
+            "id": "e954cffc-3f26-453c-956a-e1758197387c",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "eb746fb5-8d3b-4a68-a136-82bc9ccd62be",
+            "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180829T1400",
+            "createdAt": "2018-08-29T14:00:00.215Z",
+            "updatedAt": "2018-08-29T15:53:45.589Z",
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "name": "CS 241-AL1",
+            "status": "Processed",
+            "media": {
+              "current": {
+                "mediaId": "e954cffc-3f26-453c-956a-e1758197387c",
+                "primaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/3f7e.d422df75-c848-4e5e-b375-e46893d4de8a/e954cffc-3f26-453c-956a-e1758197387c/sd1.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55308490
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/3f7e.d422df75-c848-4e5e-b375-e46893d4de8a/e954cffc-3f26-453c-956a-e1758197387c/hd1.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 179432803
+                  }
+                ],
+                "secondaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/3f7e.d422df75-c848-4e5e-b375-e46893d4de8a/e954cffc-3f26-453c-956a-e1758197387c/sd2.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55317357
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/3f7e.d422df75-c848-4e5e-b375-e46893d4de8a/e954cffc-3f26-453c-956a-e1758197387c/hd2.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 148452627
+                  }
+                ],
+                "audioFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/3f7e.d422df75-c848-4e5e-b375-e46893d4de8a/e954cffc-3f26-453c-956a-e1758197387c/audio.mp3",
+                    "size": 65634287
+                  }
+                ],
+                "duration": "PT3179.967S",
+                "primaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/3f7e.d422df75-c848-4e5e-b375-e46893d4de8a/e954cffc-3f26-453c-956a-e1758197387c/thumbnails1",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "secondaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/3f7e.d422df75-c848-4e5e-b375-e46893d4de8a/e954cffc-3f26-453c-956a-e1758197387c/thumbnails2",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "primaryPosterImageUri": "https://thumbnails.echo360.org/3f7e.d422df75-c848-4e5e-b375-e46893d4de8a/e954cffc-3f26-453c-956a-e1758197387c/poster1.jpg",
+                "secondaryPosterImageUri": "https://thumbnails.echo360.org/3f7e.d422df75-c848-4e5e-b375-e46893d4de8a/e954cffc-3f26-453c-956a-e1758197387c/poster2.jpg"
+              },
+              "duration": 3179967,
+              "thumbnailUrl": "https://thumbnails.echo360.org/3f7e.d422df75-c848-4e5e-b375-e46893d4de8a/e954cffc-3f26-453c-956a-e1758197387c/poster1.jpg",
+              "isAudio": false,
+              "type": "VideoPresentation"
+            },
+            "tags": [],
+            "isPublishable": true,
+            "mediaType": "Video"
+          },
+          "published": {
+            "lessonId": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-08-29T09:00:00.000_2018-08-29T09:53:00.000",
+            "mediaId": "e954cffc-3f26-453c-956a-e1758197387c",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+            "termName": "Fall 2018",
+            "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+            "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+            "lessonName": "CS 241-AL1",
+            "lessonTiming": {
+              "start": "2018-08-29T09:00:00.000",
+              "end": "2018-08-29T09:53:00.000"
+            },
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "courseName": "CS241 - System Programming",
+            "contentAvailability": {
+              "body": {},
+              "type": "Immediate"
+            },
+            "mediaType": "Video",
+            "createdAt": "2018-08-29T14:55:31.078Z",
+            "isAvailable": true,
+            "isDeleted": false,
+            "availabilityString": "Library.immediate",
+            "publishableMediaId": "e954cffc-3f26-453c-956a-e1758197387c"
+          },
+          "copyable": true
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "https://thumbnails.echo360.org/3f7e.d422df75-c848-4e5e-b375-e46893d4de8a/e954cffc-3f26-453c-956a-e1758197387c/poster1.jpg",
+        "hasContent": true,
+        "hasAvailableVideo": true,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "e954cffc-3f26-453c-956a-e1758197387c",
+            "title": "CS 241-AL1",
+            "mediaType": "Video",
+            "coverImage": "https://thumbnails.echo360.org/3f7e.d422df75-c848-4e5e-b375-e46893d4de8a/e954cffc-3f26-453c-956a-e1758197387c/poster1.jpg",
+            "isScheduled": false,
+            "isAvailable": true,
+            "isViewed": false,
+            "isDownloadable": true,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isOwned": false,
+            "downloadUri": "/media/download/original?mediaId=e954cffc-3f26-453c-956a-e1758197387c&fileName=CS+241-AL1",
+            "canCopy": true
+          },
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": true,
+        "isFuture": false,
+        "startTimeUTC": "2018-08-29T14:00:00.000Z",
+        "endTimeUTC": "2018-08-29T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-08-31T09:00:00.000_2018-08-31T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180831T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-08-31T09:00:00.000",
+            "end": "2018-08-31T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-08-31T14:56:15.488Z",
+          "updatedAt": "2018-08-31T14:56:15.488Z",
+          "displayName": "CS 241-AL1"
+        },
+        "video": {
+          "media": {
+            "id": "7b799985-5ec4-46b4-b681-dd164be8ca21",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "eb746fb5-8d3b-4a68-a136-82bc9ccd62be",
+            "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180831T1400",
+            "createdAt": "2018-08-31T14:00:00.495Z",
+            "updatedAt": "2018-08-31T16:01:58.408Z",
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "name": "CS 241-AL1",
+            "status": "Processed",
+            "media": {
+              "current": {
+                "mediaId": "7b799985-5ec4-46b4-b681-dd164be8ca21",
+                "primaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/1f18.d422df75-c848-4e5e-b375-e46893d4de8a/7b799985-5ec4-46b4-b681-dd164be8ca21/sd1.mp4",
+                    "width": 320,
+                    "height": 180,
+                    "size": 55307065
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/1f18.d422df75-c848-4e5e-b375-e46893d4de8a/7b799985-5ec4-46b4-b681-dd164be8ca21/hd1.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 283913352
+                  }
+                ],
+                "secondaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/1f18.d422df75-c848-4e5e-b375-e46893d4de8a/7b799985-5ec4-46b4-b681-dd164be8ca21/sd2.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55311235
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/1f18.d422df75-c848-4e5e-b375-e46893d4de8a/7b799985-5ec4-46b4-b681-dd164be8ca21/hd2.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 230328270
+                  }
+                ],
+                "audioFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/1f18.d422df75-c848-4e5e-b375-e46893d4de8a/7b799985-5ec4-46b4-b681-dd164be8ca21/audio.mp3",
+                    "size": 68374963
+                  }
+                ],
+                "duration": "PT3179.967S",
+                "primaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/1f18.d422df75-c848-4e5e-b375-e46893d4de8a/7b799985-5ec4-46b4-b681-dd164be8ca21/thumbnails1",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "secondaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/1f18.d422df75-c848-4e5e-b375-e46893d4de8a/7b799985-5ec4-46b4-b681-dd164be8ca21/thumbnails2",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "primaryPosterImageUri": "https://thumbnails.echo360.org/1f18.d422df75-c848-4e5e-b375-e46893d4de8a/7b799985-5ec4-46b4-b681-dd164be8ca21/poster1.jpg",
+                "secondaryPosterImageUri": "https://thumbnails.echo360.org/1f18.d422df75-c848-4e5e-b375-e46893d4de8a/7b799985-5ec4-46b4-b681-dd164be8ca21/poster2.jpg"
+              },
+              "duration": 3179967,
+              "thumbnailUrl": "https://thumbnails.echo360.org/1f18.d422df75-c848-4e5e-b375-e46893d4de8a/7b799985-5ec4-46b4-b681-dd164be8ca21/poster1.jpg",
+              "isAudio": false,
+              "type": "VideoPresentation"
+            },
+            "tags": [],
+            "isPublishable": true,
+            "mediaType": "Video"
+          },
+          "published": {
+            "lessonId": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-08-31T09:00:00.000_2018-08-31T09:53:00.000",
+            "mediaId": "7b799985-5ec4-46b4-b681-dd164be8ca21",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+            "termName": "Fall 2018",
+            "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+            "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+            "lessonName": "CS 241-AL1",
+            "lessonTiming": {
+              "start": "2018-08-31T09:00:00.000",
+              "end": "2018-08-31T09:53:00.000"
+            },
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "courseName": "CS241 - System Programming",
+            "contentAvailability": {
+              "body": {},
+              "type": "Immediate"
+            },
+            "mediaType": "Video",
+            "createdAt": "2018-08-31T14:56:15.652Z",
+            "isAvailable": true,
+            "isDeleted": false,
+            "availabilityString": "Library.immediate",
+            "publishableMediaId": "7b799985-5ec4-46b4-b681-dd164be8ca21"
+          },
+          "copyable": true
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "https://thumbnails.echo360.org/1f18.d422df75-c848-4e5e-b375-e46893d4de8a/7b799985-5ec4-46b4-b681-dd164be8ca21/poster1.jpg",
+        "hasContent": true,
+        "hasAvailableVideo": true,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "7b799985-5ec4-46b4-b681-dd164be8ca21",
+            "title": "CS 241-AL1",
+            "mediaType": "Video",
+            "coverImage": "https://thumbnails.echo360.org/1f18.d422df75-c848-4e5e-b375-e46893d4de8a/7b799985-5ec4-46b4-b681-dd164be8ca21/poster1.jpg",
+            "isScheduled": false,
+            "isAvailable": true,
+            "isViewed": false,
+            "isDownloadable": true,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isOwned": false,
+            "downloadUri": "/media/download/original?mediaId=7b799985-5ec4-46b4-b681-dd164be8ca21&fileName=CS+241-AL1",
+            "canCopy": true
+          },
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": true,
+        "isFuture": false,
+        "startTimeUTC": "2018-08-31T14:00:00.000Z",
+        "endTimeUTC": "2018-08-31T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-05T09:00:00.000_2018-09-05T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180905T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-09-05T09:00:00.000",
+            "end": "2018-09-05T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-05T14:55:35.854Z",
+          "updatedAt": "2018-09-05T14:55:35.854Z",
+          "displayName": "CS 241-AL1"
+        },
+        "video": {
+          "media": {
+            "id": "4086a396-ad26-4141-8824-6194d86e5dc2",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "eb746fb5-8d3b-4a68-a136-82bc9ccd62be",
+            "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180905T1400",
+            "createdAt": "2018-09-05T14:00:01.012Z",
+            "updatedAt": "2018-09-05T16:06:55.171Z",
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "name": "CS 241-AL1",
+            "status": "Processed",
+            "media": {
+              "current": {
+                "mediaId": "4086a396-ad26-4141-8824-6194d86e5dc2",
+                "primaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/7b62.d422df75-c848-4e5e-b375-e46893d4de8a/4086a396-ad26-4141-8824-6194d86e5dc2/sd1.mp4",
+                    "width": 320,
+                    "height": 180,
+                    "size": 55295572
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/7b62.d422df75-c848-4e5e-b375-e46893d4de8a/4086a396-ad26-4141-8824-6194d86e5dc2/hd1.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 218208315
+                  }
+                ],
+                "secondaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/7b62.d422df75-c848-4e5e-b375-e46893d4de8a/4086a396-ad26-4141-8824-6194d86e5dc2/sd2.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55298085
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/7b62.d422df75-c848-4e5e-b375-e46893d4de8a/4086a396-ad26-4141-8824-6194d86e5dc2/hd2.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 147197538
+                  }
+                ],
+                "audioFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/7b62.d422df75-c848-4e5e-b375-e46893d4de8a/4086a396-ad26-4141-8824-6194d86e5dc2/audio.mp3",
+                    "size": 65923131
+                  }
+                ],
+                "duration": "PT3178.967S",
+                "primaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/7b62.d422df75-c848-4e5e-b375-e46893d4de8a/4086a396-ad26-4141-8824-6194d86e5dc2/thumbnails1",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "secondaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/7b62.d422df75-c848-4e5e-b375-e46893d4de8a/4086a396-ad26-4141-8824-6194d86e5dc2/thumbnails2",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "primaryPosterImageUri": "https://thumbnails.echo360.org/7b62.d422df75-c848-4e5e-b375-e46893d4de8a/4086a396-ad26-4141-8824-6194d86e5dc2/poster1.jpg",
+                "secondaryPosterImageUri": "https://thumbnails.echo360.org/7b62.d422df75-c848-4e5e-b375-e46893d4de8a/4086a396-ad26-4141-8824-6194d86e5dc2/poster2.jpg"
+              },
+              "duration": 3178967,
+              "thumbnailUrl": "https://thumbnails.echo360.org/7b62.d422df75-c848-4e5e-b375-e46893d4de8a/4086a396-ad26-4141-8824-6194d86e5dc2/poster1.jpg",
+              "isAudio": false,
+              "type": "VideoPresentation"
+            },
+            "tags": [],
+            "isPublishable": true,
+            "mediaType": "Video"
+          },
+          "published": {
+            "lessonId": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-05T09:00:00.000_2018-09-05T09:53:00.000",
+            "mediaId": "4086a396-ad26-4141-8824-6194d86e5dc2",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+            "termName": "Fall 2018",
+            "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+            "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+            "lessonName": "CS 241-AL1",
+            "lessonTiming": {
+              "start": "2018-09-05T09:00:00.000",
+              "end": "2018-09-05T09:53:00.000"
+            },
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "courseName": "CS241 - System Programming",
+            "contentAvailability": {
+              "body": {},
+              "type": "Immediate"
+            },
+            "mediaType": "Video",
+            "createdAt": "2018-09-05T14:55:36.796Z",
+            "isAvailable": true,
+            "isDeleted": false,
+            "availabilityString": "Library.immediate",
+            "publishableMediaId": "4086a396-ad26-4141-8824-6194d86e5dc2"
+          },
+          "copyable": true
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "https://thumbnails.echo360.org/7b62.d422df75-c848-4e5e-b375-e46893d4de8a/4086a396-ad26-4141-8824-6194d86e5dc2/poster1.jpg",
+        "hasContent": true,
+        "hasAvailableVideo": true,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "4086a396-ad26-4141-8824-6194d86e5dc2",
+            "title": "CS 241-AL1",
+            "mediaType": "Video",
+            "coverImage": "https://thumbnails.echo360.org/7b62.d422df75-c848-4e5e-b375-e46893d4de8a/4086a396-ad26-4141-8824-6194d86e5dc2/poster1.jpg",
+            "isScheduled": false,
+            "isAvailable": true,
+            "isViewed": false,
+            "isDownloadable": true,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isOwned": false,
+            "downloadUri": "/media/download/original?mediaId=4086a396-ad26-4141-8824-6194d86e5dc2&fileName=CS+241-AL1",
+            "canCopy": true
+          },
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": true,
+        "isFuture": false,
+        "startTimeUTC": "2018-09-05T14:00:00.000Z",
+        "endTimeUTC": "2018-09-05T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-07T09:00:00.000_2018-09-07T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180907T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-09-07T09:00:00.000",
+            "end": "2018-09-07T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-07T14:55:04.427Z",
+          "updatedAt": "2018-09-07T14:55:04.427Z",
+          "displayName": "CS 241-AL1"
+        },
+        "video": {
+          "media": {
+            "id": "eeb95eb7-fd32-466d-9bed-b03d353a6c76",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "eb746fb5-8d3b-4a68-a136-82bc9ccd62be",
+            "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180907T1400",
+            "createdAt": "2018-09-07T14:00:00.280Z",
+            "updatedAt": "2018-09-07T15:52:24.022Z",
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "name": "CS 241-AL1",
+            "status": "Processed",
+            "media": {
+              "current": {
+                "mediaId": "eeb95eb7-fd32-466d-9bed-b03d353a6c76",
+                "primaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/3183.d422df75-c848-4e5e-b375-e46893d4de8a/eeb95eb7-fd32-466d-9bed-b03d353a6c76/sd1.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55297187
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/3183.d422df75-c848-4e5e-b375-e46893d4de8a/eeb95eb7-fd32-466d-9bed-b03d353a6c76/hd1.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 164521633
+                  }
+                ],
+                "secondaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/3183.d422df75-c848-4e5e-b375-e46893d4de8a/eeb95eb7-fd32-466d-9bed-b03d353a6c76/sd2.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55301332
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/3183.d422df75-c848-4e5e-b375-e46893d4de8a/eeb95eb7-fd32-466d-9bed-b03d353a6c76/hd2.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 144854892
+                  }
+                ],
+                "audioFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/3183.d422df75-c848-4e5e-b375-e46893d4de8a/eeb95eb7-fd32-466d-9bed-b03d353a6c76/audio.mp3",
+                    "size": 67312832
+                  }
+                ],
+                "duration": "PT3179.967S",
+                "primaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/3183.d422df75-c848-4e5e-b375-e46893d4de8a/eeb95eb7-fd32-466d-9bed-b03d353a6c76/thumbnails1",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "secondaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/3183.d422df75-c848-4e5e-b375-e46893d4de8a/eeb95eb7-fd32-466d-9bed-b03d353a6c76/thumbnails2",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "primaryPosterImageUri": "https://thumbnails.echo360.org/3183.d422df75-c848-4e5e-b375-e46893d4de8a/eeb95eb7-fd32-466d-9bed-b03d353a6c76/poster1.jpg",
+                "secondaryPosterImageUri": "https://thumbnails.echo360.org/3183.d422df75-c848-4e5e-b375-e46893d4de8a/eeb95eb7-fd32-466d-9bed-b03d353a6c76/poster2.jpg"
+              },
+              "duration": 3179967,
+              "thumbnailUrl": "https://thumbnails.echo360.org/3183.d422df75-c848-4e5e-b375-e46893d4de8a/eeb95eb7-fd32-466d-9bed-b03d353a6c76/poster1.jpg",
+              "isAudio": false,
+              "type": "VideoPresentation"
+            },
+            "tags": [],
+            "isPublishable": true,
+            "mediaType": "Video"
+          },
+          "published": {
+            "lessonId": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-07T09:00:00.000_2018-09-07T09:53:00.000",
+            "mediaId": "eeb95eb7-fd32-466d-9bed-b03d353a6c76",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+            "termName": "Fall 2018",
+            "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+            "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+            "lessonName": "CS 241-AL1",
+            "lessonTiming": {
+              "start": "2018-09-07T09:00:00.000",
+              "end": "2018-09-07T09:53:00.000"
+            },
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "courseName": "CS241 - System Programming",
+            "contentAvailability": {
+              "body": {},
+              "type": "Immediate"
+            },
+            "mediaType": "Video",
+            "createdAt": "2018-09-07T14:55:04.555Z",
+            "isAvailable": true,
+            "isDeleted": false,
+            "availabilityString": "Library.immediate",
+            "publishableMediaId": "eeb95eb7-fd32-466d-9bed-b03d353a6c76"
+          },
+          "copyable": true
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "https://thumbnails.echo360.org/3183.d422df75-c848-4e5e-b375-e46893d4de8a/eeb95eb7-fd32-466d-9bed-b03d353a6c76/poster1.jpg",
+        "hasContent": true,
+        "hasAvailableVideo": true,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "eeb95eb7-fd32-466d-9bed-b03d353a6c76",
+            "title": "CS 241-AL1",
+            "mediaType": "Video",
+            "coverImage": "https://thumbnails.echo360.org/3183.d422df75-c848-4e5e-b375-e46893d4de8a/eeb95eb7-fd32-466d-9bed-b03d353a6c76/poster1.jpg",
+            "isScheduled": false,
+            "isAvailable": true,
+            "isViewed": false,
+            "isDownloadable": true,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isOwned": false,
+            "downloadUri": "/media/download/original?mediaId=eeb95eb7-fd32-466d-9bed-b03d353a6c76&fileName=CS+241-AL1",
+            "canCopy": true
+          },
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": true,
+        "isFuture": false,
+        "startTimeUTC": "2018-09-07T14:00:00.000Z",
+        "endTimeUTC": "2018-09-07T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-10T09:00:00.000_2018-09-10T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180910T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-09-10T09:00:00.000",
+            "end": "2018-09-10T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-10T14:55:49.623Z",
+          "updatedAt": "2018-09-10T14:55:49.623Z",
+          "displayName": "CS 241-AL1"
+        },
+        "video": {
+          "media": {
+            "id": "1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "eb746fb5-8d3b-4a68-a136-82bc9ccd62be",
+            "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180910T1400",
+            "createdAt": "2018-09-10T14:00:00.449Z",
+            "updatedAt": "2018-09-10T15:48:58.366Z",
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "name": "CS 241-AL1",
+            "status": "Processed",
+            "media": {
+              "current": {
+                "mediaId": "1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b",
+                "primaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/4104.d422df75-c848-4e5e-b375-e46893d4de8a/1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b/sd1.mp4",
+                    "width": 320,
+                    "height": 180,
+                    "size": 55314445
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/4104.d422df75-c848-4e5e-b375-e46893d4de8a/1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b/hd1.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 258950812
+                  }
+                ],
+                "secondaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/4104.d422df75-c848-4e5e-b375-e46893d4de8a/1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b/sd2.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55311842
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/4104.d422df75-c848-4e5e-b375-e46893d4de8a/1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b/hd2.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 156404414
+                  }
+                ],
+                "audioFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/4104.d422df75-c848-4e5e-b375-e46893d4de8a/1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b/audio.mp3",
+                    "size": 66746104
+                  }
+                ],
+                "duration": "PT3180S",
+                "primaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/4104.d422df75-c848-4e5e-b375-e46893d4de8a/1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b/thumbnails1",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "secondaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/4104.d422df75-c848-4e5e-b375-e46893d4de8a/1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b/thumbnails2",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "primaryPosterImageUri": "https://thumbnails.echo360.org/4104.d422df75-c848-4e5e-b375-e46893d4de8a/1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b/poster1.jpg",
+                "secondaryPosterImageUri": "https://thumbnails.echo360.org/4104.d422df75-c848-4e5e-b375-e46893d4de8a/1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b/poster2.jpg"
+              },
+              "duration": 3180000,
+              "thumbnailUrl": "https://thumbnails.echo360.org/4104.d422df75-c848-4e5e-b375-e46893d4de8a/1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b/poster1.jpg",
+              "isAudio": false,
+              "type": "VideoPresentation"
+            },
+            "tags": [],
+            "isPublishable": true,
+            "mediaType": "Video"
+          },
+          "published": {
+            "lessonId": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-10T09:00:00.000_2018-09-10T09:53:00.000",
+            "mediaId": "1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+            "termName": "Fall 2018",
+            "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+            "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+            "lessonName": "CS 241-AL1",
+            "lessonTiming": {
+              "start": "2018-09-10T09:00:00.000",
+              "end": "2018-09-10T09:53:00.000"
+            },
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "courseName": "CS241 - System Programming",
+            "contentAvailability": {
+              "body": {},
+              "type": "Immediate"
+            },
+            "mediaType": "Video",
+            "createdAt": "2018-09-10T14:55:49.760Z",
+            "isAvailable": true,
+            "isDeleted": false,
+            "availabilityString": "Library.immediate",
+            "publishableMediaId": "1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b"
+          },
+          "receipt": {
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+            "associationId": "1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b",
+            "associationType": "PublishableMedia",
+            "read": true,
+            "liked": false,
+            "bookmarked": false,
+            "position": 0,
+            "createdAt": "2018-09-27T05:16:29.388",
+            "updatedAt": "2018-09-27T05:16:29.388"
+          },
+          "copyable": true
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "https://thumbnails.echo360.org/4104.d422df75-c848-4e5e-b375-e46893d4de8a/1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b/poster1.jpg",
+        "hasContent": true,
+        "hasAvailableVideo": true,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b",
+            "title": "CS 241-AL1",
+            "mediaType": "Video",
+            "coverImage": "https://thumbnails.echo360.org/4104.d422df75-c848-4e5e-b375-e46893d4de8a/1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b/poster1.jpg",
+            "isScheduled": false,
+            "isAvailable": true,
+            "isViewed": true,
+            "isDownloadable": true,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isOwned": false,
+            "downloadUri": "/media/download/original?mediaId=1d5c52c0-8aa8-4f49-b37e-ee3f4ac51e2b&fileName=CS+241-AL1",
+            "canCopy": true
+          },
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": true,
+        "isFuture": false,
+        "startTimeUTC": "2018-09-10T14:00:00.000Z",
+        "endTimeUTC": "2018-09-10T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-12T09:00:00.000_2018-09-12T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180912T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-09-12T09:00:00.000",
+            "end": "2018-09-12T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-12T14:55:26.655Z",
+          "updatedAt": "2018-09-12T14:55:26.655Z",
+          "displayName": "CS 241-AL1"
+        },
+        "video": {
+          "media": {
+            "id": "82b024e1-7114-4012-b342-66a425ec748d",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "eb746fb5-8d3b-4a68-a136-82bc9ccd62be",
+            "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180912T1400",
+            "createdAt": "2018-09-12T14:00:00.168Z",
+            "updatedAt": "2018-09-12T15:58:57.201Z",
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "name": "CS 241-AL1",
+            "status": "Processed",
+            "media": {
+              "current": {
+                "mediaId": "82b024e1-7114-4012-b342-66a425ec748d",
+                "primaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/072a.d422df75-c848-4e5e-b375-e46893d4de8a/82b024e1-7114-4012-b342-66a425ec748d/sd1.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55258251
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/072a.d422df75-c848-4e5e-b375-e46893d4de8a/82b024e1-7114-4012-b342-66a425ec748d/hd1.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 158544069
+                  }
+                ],
+                "secondaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/072a.d422df75-c848-4e5e-b375-e46893d4de8a/82b024e1-7114-4012-b342-66a425ec748d/sd2.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55313590
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/072a.d422df75-c848-4e5e-b375-e46893d4de8a/82b024e1-7114-4012-b342-66a425ec748d/hd2.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 221955962
+                  }
+                ],
+                "audioFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/072a.d422df75-c848-4e5e-b375-e46893d4de8a/82b024e1-7114-4012-b342-66a425ec748d/audio.mp3",
+                    "size": 66454101
+                  }
+                ],
+                "duration": "PT3179.967S",
+                "primaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/072a.d422df75-c848-4e5e-b375-e46893d4de8a/82b024e1-7114-4012-b342-66a425ec748d/thumbnails1",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "secondaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/072a.d422df75-c848-4e5e-b375-e46893d4de8a/82b024e1-7114-4012-b342-66a425ec748d/thumbnails2",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "primaryPosterImageUri": "https://thumbnails.echo360.org/072a.d422df75-c848-4e5e-b375-e46893d4de8a/82b024e1-7114-4012-b342-66a425ec748d/poster1.jpg",
+                "secondaryPosterImageUri": "https://thumbnails.echo360.org/072a.d422df75-c848-4e5e-b375-e46893d4de8a/82b024e1-7114-4012-b342-66a425ec748d/poster2.jpg"
+              },
+              "duration": 3179967,
+              "thumbnailUrl": "https://thumbnails.echo360.org/072a.d422df75-c848-4e5e-b375-e46893d4de8a/82b024e1-7114-4012-b342-66a425ec748d/poster1.jpg",
+              "isAudio": false,
+              "type": "VideoPresentation"
+            },
+            "tags": [],
+            "isPublishable": true,
+            "mediaType": "Video"
+          },
+          "published": {
+            "lessonId": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-12T09:00:00.000_2018-09-12T09:53:00.000",
+            "mediaId": "82b024e1-7114-4012-b342-66a425ec748d",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+            "termName": "Fall 2018",
+            "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+            "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+            "lessonName": "CS 241-AL1",
+            "lessonTiming": {
+              "start": "2018-09-12T09:00:00.000",
+              "end": "2018-09-12T09:53:00.000"
+            },
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "courseName": "CS241 - System Programming",
+            "contentAvailability": {
+              "body": {},
+              "type": "Immediate"
+            },
+            "mediaType": "Video",
+            "createdAt": "2018-09-12T14:55:26.792Z",
+            "isAvailable": true,
+            "isDeleted": false,
+            "availabilityString": "Library.immediate",
+            "publishableMediaId": "82b024e1-7114-4012-b342-66a425ec748d"
+          },
+          "copyable": true
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "https://thumbnails.echo360.org/072a.d422df75-c848-4e5e-b375-e46893d4de8a/82b024e1-7114-4012-b342-66a425ec748d/poster1.jpg",
+        "hasContent": true,
+        "hasAvailableVideo": true,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "82b024e1-7114-4012-b342-66a425ec748d",
+            "title": "CS 241-AL1",
+            "mediaType": "Video",
+            "coverImage": "https://thumbnails.echo360.org/072a.d422df75-c848-4e5e-b375-e46893d4de8a/82b024e1-7114-4012-b342-66a425ec748d/poster1.jpg",
+            "isScheduled": false,
+            "isAvailable": true,
+            "isViewed": false,
+            "isDownloadable": true,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isOwned": false,
+            "downloadUri": "/media/download/original?mediaId=82b024e1-7114-4012-b342-66a425ec748d&fileName=CS+241-AL1",
+            "canCopy": true
+          },
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": true,
+        "isFuture": false,
+        "startTimeUTC": "2018-09-12T14:00:00.000Z",
+        "endTimeUTC": "2018-09-12T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-14T09:00:00.000_2018-09-14T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180914T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-09-14T09:00:00.000",
+            "end": "2018-09-14T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-14T14:55:56.707Z",
+          "updatedAt": "2018-09-14T14:55:56.708Z",
+          "displayName": "CS 241-AL1"
+        },
+        "video": {
+          "media": {
+            "id": "481864a3-8b57-435b-83c2-a49b592ca6f2",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "eb746fb5-8d3b-4a68-a136-82bc9ccd62be",
+            "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180914T1400",
+            "createdAt": "2018-09-14T14:00:00.873Z",
+            "updatedAt": "2018-09-14T15:43:24.897Z",
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "name": "CS 241-AL1",
+            "status": "Processed",
+            "media": {
+              "current": {
+                "mediaId": "481864a3-8b57-435b-83c2-a49b592ca6f2",
+                "primaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/34b1.d422df75-c848-4e5e-b375-e46893d4de8a/481864a3-8b57-435b-83c2-a49b592ca6f2/sd1.mp4",
+                    "width": 320,
+                    "height": 180,
+                    "size": 55280009
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/34b1.d422df75-c848-4e5e-b375-e46893d4de8a/481864a3-8b57-435b-83c2-a49b592ca6f2/hd1.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 249519190
+                  }
+                ],
+                "secondaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/34b1.d422df75-c848-4e5e-b375-e46893d4de8a/481864a3-8b57-435b-83c2-a49b592ca6f2/sd2.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55296188
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/34b1.d422df75-c848-4e5e-b375-e46893d4de8a/481864a3-8b57-435b-83c2-a49b592ca6f2/hd2.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 224606199
+                  }
+                ],
+                "audioFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/34b1.d422df75-c848-4e5e-b375-e46893d4de8a/481864a3-8b57-435b-83c2-a49b592ca6f2/audio.mp3",
+                    "size": 68675067
+                  }
+                ],
+                "duration": "PT3179.967S",
+                "primaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/34b1.d422df75-c848-4e5e-b375-e46893d4de8a/481864a3-8b57-435b-83c2-a49b592ca6f2/thumbnails1",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "secondaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/34b1.d422df75-c848-4e5e-b375-e46893d4de8a/481864a3-8b57-435b-83c2-a49b592ca6f2/thumbnails2",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "primaryPosterImageUri": "https://thumbnails.echo360.org/34b1.d422df75-c848-4e5e-b375-e46893d4de8a/481864a3-8b57-435b-83c2-a49b592ca6f2/poster1.jpg",
+                "secondaryPosterImageUri": "https://thumbnails.echo360.org/34b1.d422df75-c848-4e5e-b375-e46893d4de8a/481864a3-8b57-435b-83c2-a49b592ca6f2/poster2.jpg"
+              },
+              "duration": 3179967,
+              "thumbnailUrl": "https://thumbnails.echo360.org/34b1.d422df75-c848-4e5e-b375-e46893d4de8a/481864a3-8b57-435b-83c2-a49b592ca6f2/poster1.jpg",
+              "isAudio": false,
+              "type": "VideoPresentation"
+            },
+            "tags": [],
+            "isPublishable": true,
+            "mediaType": "Video"
+          },
+          "published": {
+            "lessonId": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-14T09:00:00.000_2018-09-14T09:53:00.000",
+            "mediaId": "481864a3-8b57-435b-83c2-a49b592ca6f2",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+            "termName": "Fall 2018",
+            "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+            "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+            "lessonName": "CS 241-AL1",
+            "lessonTiming": {
+              "start": "2018-09-14T09:00:00.000",
+              "end": "2018-09-14T09:53:00.000"
+            },
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "courseName": "CS241 - System Programming",
+            "contentAvailability": {
+              "body": {},
+              "type": "Immediate"
+            },
+            "mediaType": "Video",
+            "createdAt": "2018-09-14T14:55:57.180Z",
+            "isAvailable": true,
+            "isDeleted": false,
+            "availabilityString": "Library.immediate",
+            "publishableMediaId": "481864a3-8b57-435b-83c2-a49b592ca6f2"
+          },
+          "receipt": {
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+            "associationId": "481864a3-8b57-435b-83c2-a49b592ca6f2",
+            "associationType": "PublishableMedia",
+            "read": true,
+            "liked": false,
+            "bookmarked": false,
+            "position": 0,
+            "createdAt": "2018-09-27T07:36:46.058",
+            "updatedAt": "2018-09-27T07:36:46.058"
+          },
+          "copyable": true
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "https://thumbnails.echo360.org/34b1.d422df75-c848-4e5e-b375-e46893d4de8a/481864a3-8b57-435b-83c2-a49b592ca6f2/poster1.jpg",
+        "hasContent": true,
+        "hasAvailableVideo": true,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "481864a3-8b57-435b-83c2-a49b592ca6f2",
+            "title": "CS 241-AL1",
+            "mediaType": "Video",
+            "coverImage": "https://thumbnails.echo360.org/34b1.d422df75-c848-4e5e-b375-e46893d4de8a/481864a3-8b57-435b-83c2-a49b592ca6f2/poster1.jpg",
+            "isScheduled": false,
+            "isAvailable": true,
+            "isViewed": true,
+            "isDownloadable": true,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isOwned": false,
+            "downloadUri": "/media/download/original?mediaId=481864a3-8b57-435b-83c2-a49b592ca6f2&fileName=CS+241-AL1",
+            "canCopy": true
+          },
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": true,
+        "isFuture": false,
+        "startTimeUTC": "2018-09-14T14:00:00.000Z",
+        "endTimeUTC": "2018-09-14T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-17T09:00:00.000_2018-09-17T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180917T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-09-17T09:00:00.000",
+            "end": "2018-09-17T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-17T14:56:15.127Z",
+          "updatedAt": "2018-09-17T14:56:15.127Z",
+          "displayName": "CS 241-AL1"
+        },
+        "video": {
+          "media": {
+            "id": "d88cd0ee-b33b-40e5-9b93-0968735a6470",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "eb746fb5-8d3b-4a68-a136-82bc9ccd62be",
+            "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180917T1400",
+            "createdAt": "2018-09-17T14:00:00.508Z",
+            "updatedAt": "2018-09-17T15:55:54.887Z",
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "name": "CS 241-AL1",
+            "status": "Processed",
+            "media": {
+              "current": {
+                "mediaId": "d88cd0ee-b33b-40e5-9b93-0968735a6470",
+                "primaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/d88cd0ee-b33b-40e5-9b93-0968735a6470/sd1.mp4",
+                    "width": 320,
+                    "height": 180,
+                    "size": 55297312
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/d88cd0ee-b33b-40e5-9b93-0968735a6470/hd1.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 279501261
+                  }
+                ],
+                "secondaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/d88cd0ee-b33b-40e5-9b93-0968735a6470/sd2.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55307890
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/d88cd0ee-b33b-40e5-9b93-0968735a6470/hd2.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 231081933
+                  }
+                ],
+                "audioFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/d88cd0ee-b33b-40e5-9b93-0968735a6470/audio.mp3",
+                    "size": 65879823
+                  }
+                ],
+                "duration": "PT3179.967S",
+                "primaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/d88cd0ee-b33b-40e5-9b93-0968735a6470/thumbnails1",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "secondaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/d88cd0ee-b33b-40e5-9b93-0968735a6470/thumbnails2",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "primaryPosterImageUri": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/d88cd0ee-b33b-40e5-9b93-0968735a6470/poster1.jpg",
+                "secondaryPosterImageUri": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/d88cd0ee-b33b-40e5-9b93-0968735a6470/poster2.jpg"
+              },
+              "duration": 3179967,
+              "thumbnailUrl": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/d88cd0ee-b33b-40e5-9b93-0968735a6470/poster1.jpg",
+              "isAudio": false,
+              "type": "VideoPresentation"
+            },
+            "tags": [],
+            "isPublishable": true,
+            "mediaType": "Video"
+          },
+          "published": {
+            "lessonId": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-17T09:00:00.000_2018-09-17T09:53:00.000",
+            "mediaId": "d88cd0ee-b33b-40e5-9b93-0968735a6470",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+            "termName": "Fall 2018",
+            "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+            "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+            "lessonName": "CS 241-AL1",
+            "lessonTiming": {
+              "start": "2018-09-17T09:00:00.000",
+              "end": "2018-09-17T09:53:00.000"
+            },
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "courseName": "CS241 - System Programming",
+            "contentAvailability": {
+              "body": {},
+              "type": "Immediate"
+            },
+            "mediaType": "Video",
+            "createdAt": "2018-09-17T14:56:15.527Z",
+            "isAvailable": true,
+            "isDeleted": false,
+            "availabilityString": "Library.immediate",
+            "publishableMediaId": "d88cd0ee-b33b-40e5-9b93-0968735a6470"
+          },
+          "copyable": true
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/d88cd0ee-b33b-40e5-9b93-0968735a6470/poster1.jpg",
+        "hasContent": true,
+        "hasAvailableVideo": true,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "d88cd0ee-b33b-40e5-9b93-0968735a6470",
+            "title": "CS 241-AL1",
+            "mediaType": "Video",
+            "coverImage": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/d88cd0ee-b33b-40e5-9b93-0968735a6470/poster1.jpg",
+            "isScheduled": false,
+            "isAvailable": true,
+            "isViewed": false,
+            "isDownloadable": true,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isOwned": false,
+            "downloadUri": "/media/download/original?mediaId=d88cd0ee-b33b-40e5-9b93-0968735a6470&fileName=CS+241-AL1",
+            "canCopy": true
+          },
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": true,
+        "isFuture": false,
+        "startTimeUTC": "2018-09-17T14:00:00.000Z",
+        "endTimeUTC": "2018-09-17T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-19T09:00:00.000_2018-09-19T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180919T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-09-19T09:00:00.000",
+            "end": "2018-09-19T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-19T14:56:02.846Z",
+          "updatedAt": "2018-09-19T14:56:02.846Z",
+          "displayName": "CS 241-AL1"
+        },
+        "video": {
+          "media": {
+            "id": "f84ce0a6-f5fd-422f-a26d-517d4e99af32",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "eb746fb5-8d3b-4a68-a136-82bc9ccd62be",
+            "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180919T1400",
+            "createdAt": "2018-09-19T14:00:00.014Z",
+            "updatedAt": "2018-09-19T15:47:02.533Z",
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "name": "CS 241-AL1",
+            "status": "Processed",
+            "media": {
+              "current": {
+                "mediaId": "f84ce0a6-f5fd-422f-a26d-517d4e99af32",
+                "primaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/0297.d422df75-c848-4e5e-b375-e46893d4de8a/f84ce0a6-f5fd-422f-a26d-517d4e99af32/sd1.mp4",
+                    "width": 320,
+                    "height": 180,
+                    "size": 55326864
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/0297.d422df75-c848-4e5e-b375-e46893d4de8a/f84ce0a6-f5fd-422f-a26d-517d4e99af32/hd1.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 287540197
+                  }
+                ],
+                "secondaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/0297.d422df75-c848-4e5e-b375-e46893d4de8a/f84ce0a6-f5fd-422f-a26d-517d4e99af32/sd2.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55310066
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/0297.d422df75-c848-4e5e-b375-e46893d4de8a/f84ce0a6-f5fd-422f-a26d-517d4e99af32/hd2.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 153184165
+                  }
+                ],
+                "audioFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/0297.d422df75-c848-4e5e-b375-e46893d4de8a/f84ce0a6-f5fd-422f-a26d-517d4e99af32/audio.mp3",
+                    "size": 69488293
+                  }
+                ],
+                "duration": "PT3179.967S",
+                "primaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/0297.d422df75-c848-4e5e-b375-e46893d4de8a/f84ce0a6-f5fd-422f-a26d-517d4e99af32/thumbnails1",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "secondaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/0297.d422df75-c848-4e5e-b375-e46893d4de8a/f84ce0a6-f5fd-422f-a26d-517d4e99af32/thumbnails2",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "primaryPosterImageUri": "https://thumbnails.echo360.org/0297.d422df75-c848-4e5e-b375-e46893d4de8a/f84ce0a6-f5fd-422f-a26d-517d4e99af32/poster1.jpg",
+                "secondaryPosterImageUri": "https://thumbnails.echo360.org/0297.d422df75-c848-4e5e-b375-e46893d4de8a/f84ce0a6-f5fd-422f-a26d-517d4e99af32/poster2.jpg",
+                "introDuration": "PT0S",
+                "outroDuration": "PT0S",
+                "processedWithEdits": false,
+                "preliminary": false
+              },
+              "duration": 3179967,
+              "thumbnailUrl": "https://thumbnails.echo360.org/0297.d422df75-c848-4e5e-b375-e46893d4de8a/f84ce0a6-f5fd-422f-a26d-517d4e99af32/poster1.jpg",
+              "isAudio": false,
+              "type": "VideoPresentation"
+            },
+            "tags": [],
+            "isPublishable": true,
+            "mediaType": "Video"
+          },
+          "published": {
+            "lessonId": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-19T09:00:00.000_2018-09-19T09:53:00.000",
+            "mediaId": "f84ce0a6-f5fd-422f-a26d-517d4e99af32",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+            "termName": "Fall 2018",
+            "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+            "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+            "lessonName": "CS 241-AL1",
+            "lessonTiming": {
+              "start": "2018-09-19T09:00:00.000",
+              "end": "2018-09-19T09:53:00.000"
+            },
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "courseName": "CS241 - System Programming",
+            "contentAvailability": {
+              "body": {},
+              "type": "Immediate"
+            },
+            "mediaType": "Video",
+            "createdAt": "2018-09-19T14:56:03.036Z",
+            "isAvailable": true,
+            "isDeleted": false,
+            "availabilityString": "Library.immediate",
+            "publishableMediaId": "f84ce0a6-f5fd-422f-a26d-517d4e99af32"
+          },
+          "copyable": true
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "https://thumbnails.echo360.org/0297.d422df75-c848-4e5e-b375-e46893d4de8a/f84ce0a6-f5fd-422f-a26d-517d4e99af32/poster1.jpg",
+        "hasContent": true,
+        "hasAvailableVideo": true,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "f84ce0a6-f5fd-422f-a26d-517d4e99af32",
+            "title": "CS 241-AL1",
+            "mediaType": "Video",
+            "coverImage": "https://thumbnails.echo360.org/0297.d422df75-c848-4e5e-b375-e46893d4de8a/f84ce0a6-f5fd-422f-a26d-517d4e99af32/poster1.jpg",
+            "isScheduled": false,
+            "isAvailable": true,
+            "isViewed": false,
+            "isDownloadable": true,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isOwned": false,
+            "downloadUri": "/media/download/original?mediaId=f84ce0a6-f5fd-422f-a26d-517d4e99af32&fileName=CS+241-AL1",
+            "canCopy": true
+          },
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": true,
+        "isFuture": false,
+        "startTimeUTC": "2018-09-19T14:00:00.000Z",
+        "endTimeUTC": "2018-09-19T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-21T09:00:00.000_2018-09-21T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180921T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-09-21T09:00:00.000",
+            "end": "2018-09-21T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-21T14:55:13.539Z",
+          "updatedAt": "2018-09-21T14:55:13.539Z",
+          "displayName": "CS 241-AL1"
+        },
+        "video": {
+          "media": {
+            "id": "18ebb717-91ce-4d1b-a481-abccd85d7b9f",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "eb746fb5-8d3b-4a68-a136-82bc9ccd62be",
+            "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180921T1400",
+            "createdAt": "2018-09-21T14:00:00.658Z",
+            "updatedAt": "2018-09-21T16:19:00.326Z",
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "name": "CS 241-AL1",
+            "status": "Processed",
+            "media": {
+              "current": {
+                "mediaId": "18ebb717-91ce-4d1b-a481-abccd85d7b9f",
+                "primaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/35a1.d422df75-c848-4e5e-b375-e46893d4de8a/18ebb717-91ce-4d1b-a481-abccd85d7b9f/sd1.mp4",
+                    "width": 320,
+                    "height": 180,
+                    "size": 55285372
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/35a1.d422df75-c848-4e5e-b375-e46893d4de8a/18ebb717-91ce-4d1b-a481-abccd85d7b9f/hd1.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 183236399
+                  }
+                ],
+                "secondaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/35a1.d422df75-c848-4e5e-b375-e46893d4de8a/18ebb717-91ce-4d1b-a481-abccd85d7b9f/sd2.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55307765
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/35a1.d422df75-c848-4e5e-b375-e46893d4de8a/18ebb717-91ce-4d1b-a481-abccd85d7b9f/hd2.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 144453561
+                  }
+                ],
+                "audioFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/35a1.d422df75-c848-4e5e-b375-e46893d4de8a/18ebb717-91ce-4d1b-a481-abccd85d7b9f/audio.mp3",
+                    "size": 68527671
+                  }
+                ],
+                "duration": "PT3179.967S",
+                "primaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/35a1.d422df75-c848-4e5e-b375-e46893d4de8a/18ebb717-91ce-4d1b-a481-abccd85d7b9f/thumbnails1",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "secondaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/35a1.d422df75-c848-4e5e-b375-e46893d4de8a/18ebb717-91ce-4d1b-a481-abccd85d7b9f/thumbnails2",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "primaryPosterImageUri": "https://thumbnails.echo360.org/35a1.d422df75-c848-4e5e-b375-e46893d4de8a/18ebb717-91ce-4d1b-a481-abccd85d7b9f/poster1.jpg",
+                "secondaryPosterImageUri": "https://thumbnails.echo360.org/35a1.d422df75-c848-4e5e-b375-e46893d4de8a/18ebb717-91ce-4d1b-a481-abccd85d7b9f/poster2.jpg",
+                "introDuration": "PT0S",
+                "outroDuration": "PT0S",
+                "processedWithEdits": false,
+                "preliminary": false
+              },
+              "duration": 3179967,
+              "thumbnailUrl": "https://thumbnails.echo360.org/35a1.d422df75-c848-4e5e-b375-e46893d4de8a/18ebb717-91ce-4d1b-a481-abccd85d7b9f/poster1.jpg",
+              "isAudio": false,
+              "type": "VideoPresentation"
+            },
+            "tags": [],
+            "isPublishable": true,
+            "mediaType": "Video"
+          },
+          "published": {
+            "lessonId": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-21T09:00:00.000_2018-09-21T09:53:00.000",
+            "mediaId": "18ebb717-91ce-4d1b-a481-abccd85d7b9f",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+            "termName": "Fall 2018",
+            "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+            "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+            "lessonName": "CS 241-AL1",
+            "lessonTiming": {
+              "start": "2018-09-21T09:00:00.000",
+              "end": "2018-09-21T09:53:00.000"
+            },
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "courseName": "CS241 - System Programming",
+            "contentAvailability": {
+              "body": {},
+              "type": "Immediate"
+            },
+            "mediaType": "Video",
+            "createdAt": "2018-09-21T14:55:13.672Z",
+            "isAvailable": true,
+            "isDeleted": false,
+            "availabilityString": "Library.immediate",
+            "publishableMediaId": "18ebb717-91ce-4d1b-a481-abccd85d7b9f"
+          },
+          "copyable": true
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "https://thumbnails.echo360.org/35a1.d422df75-c848-4e5e-b375-e46893d4de8a/18ebb717-91ce-4d1b-a481-abccd85d7b9f/poster1.jpg",
+        "hasContent": true,
+        "hasAvailableVideo": true,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "18ebb717-91ce-4d1b-a481-abccd85d7b9f",
+            "title": "CS 241-AL1",
+            "mediaType": "Video",
+            "coverImage": "https://thumbnails.echo360.org/35a1.d422df75-c848-4e5e-b375-e46893d4de8a/18ebb717-91ce-4d1b-a481-abccd85d7b9f/poster1.jpg",
+            "isScheduled": false,
+            "isAvailable": true,
+            "isViewed": false,
+            "isDownloadable": true,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isOwned": false,
+            "downloadUri": "/media/download/original?mediaId=18ebb717-91ce-4d1b-a481-abccd85d7b9f&fileName=CS+241-AL1",
+            "canCopy": true
+          },
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": true,
+        "isFuture": false,
+        "startTimeUTC": "2018-09-21T14:00:00.000Z",
+        "endTimeUTC": "2018-09-21T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-24T09:00:00.000_2018-09-24T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180924T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-09-24T09:00:00.000",
+            "end": "2018-09-24T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-24T14:55:49.018Z",
+          "updatedAt": "2018-09-24T14:55:49.018Z",
+          "displayName": "CS 241-AL1"
+        },
+        "video": {
+          "media": {
+            "id": "5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "eb746fb5-8d3b-4a68-a136-82bc9ccd62be",
+            "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180924T1400",
+            "createdAt": "2018-09-24T14:00:00.950Z",
+            "updatedAt": "2018-09-24T16:20:01.498Z",
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "name": "CS 241-AL1",
+            "status": "Processed",
+            "media": {
+              "current": {
+                "mediaId": "5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb",
+                "primaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/4223.d422df75-c848-4e5e-b375-e46893d4de8a/5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb/sd1.mp4",
+                    "width": 320,
+                    "height": 180,
+                    "size": 55276028
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/4223.d422df75-c848-4e5e-b375-e46893d4de8a/5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb/hd1.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 288238981
+                  }
+                ],
+                "secondaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/4223.d422df75-c848-4e5e-b375-e46893d4de8a/5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb/sd2.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55305394
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/4223.d422df75-c848-4e5e-b375-e46893d4de8a/5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb/hd2.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 214008509
+                  }
+                ],
+                "audioFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/4223.d422df75-c848-4e5e-b375-e46893d4de8a/5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb/audio.mp3",
+                    "size": 67987760
+                  }
+                ],
+                "duration": "PT3179.967S",
+                "primaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/4223.d422df75-c848-4e5e-b375-e46893d4de8a/5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb/thumbnails1",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "secondaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/4223.d422df75-c848-4e5e-b375-e46893d4de8a/5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb/thumbnails2",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "primaryPosterImageUri": "https://thumbnails.echo360.org/4223.d422df75-c848-4e5e-b375-e46893d4de8a/5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb/poster1.jpg",
+                "secondaryPosterImageUri": "https://thumbnails.echo360.org/4223.d422df75-c848-4e5e-b375-e46893d4de8a/5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb/poster2.jpg",
+                "introDuration": "PT0S",
+                "outroDuration": "PT0S",
+                "processedWithEdits": false,
+                "preliminary": false
+              },
+              "duration": 3179967,
+              "thumbnailUrl": "https://thumbnails.echo360.org/4223.d422df75-c848-4e5e-b375-e46893d4de8a/5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb/poster1.jpg",
+              "isAudio": false,
+              "type": "VideoPresentation"
+            },
+            "tags": [],
+            "isPublishable": true,
+            "mediaType": "Video"
+          },
+          "published": {
+            "lessonId": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-24T09:00:00.000_2018-09-24T09:53:00.000",
+            "mediaId": "5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+            "termName": "Fall 2018",
+            "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+            "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+            "lessonName": "CS 241-AL1",
+            "lessonTiming": {
+              "start": "2018-09-24T09:00:00.000",
+              "end": "2018-09-24T09:53:00.000"
+            },
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "courseName": "CS241 - System Programming",
+            "contentAvailability": {
+              "body": {},
+              "type": "Immediate"
+            },
+            "mediaType": "Video",
+            "createdAt": "2018-09-24T14:55:49.196Z",
+            "isAvailable": true,
+            "isDeleted": false,
+            "availabilityString": "Library.immediate",
+            "publishableMediaId": "5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb"
+          },
+          "copyable": true
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "https://thumbnails.echo360.org/4223.d422df75-c848-4e5e-b375-e46893d4de8a/5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb/poster1.jpg",
+        "hasContent": true,
+        "hasAvailableVideo": true,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb",
+            "title": "CS 241-AL1",
+            "mediaType": "Video",
+            "coverImage": "https://thumbnails.echo360.org/4223.d422df75-c848-4e5e-b375-e46893d4de8a/5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb/poster1.jpg",
+            "isScheduled": false,
+            "isAvailable": true,
+            "isViewed": false,
+            "isDownloadable": true,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isOwned": false,
+            "downloadUri": "/media/download/original?mediaId=5ee9fcc5-dbfd-4a6d-a8ff-ae641add42eb&fileName=CS+241-AL1",
+            "canCopy": true
+          },
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": true,
+        "isFuture": false,
+        "startTimeUTC": "2018-09-24T14:00:00.000Z",
+        "endTimeUTC": "2018-09-24T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-26T09:00:00.000_2018-09-26T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180926T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-09-26T09:00:00.000",
+            "end": "2018-09-26T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-26T14:55:44.887Z",
+          "updatedAt": "2018-09-26T14:55:44.887Z",
+          "displayName": "CS 241-AL1"
+        },
+        "video": {
+          "media": {
+            "id": "7136fc76-7654-4833-b31a-520c54c1c754",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "userId": "eb746fb5-8d3b-4a68-a136-82bc9ccd62be",
+            "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180926T1400",
+            "createdAt": "2018-09-26T14:00:00.382Z",
+            "updatedAt": "2018-09-26T15:56:10.776Z",
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "name": "CS 241-AL1",
+            "status": "Processed",
+            "media": {
+              "current": {
+                "mediaId": "7136fc76-7654-4833-b31a-520c54c1c754",
+                "primaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/7136fc76-7654-4833-b31a-520c54c1c754/sd1.mp4",
+                    "width": 320,
+                    "height": 180,
+                    "size": 55232349
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/7136fc76-7654-4833-b31a-520c54c1c754/hd1.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 475842377
+                  }
+                ],
+                "secondaryFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/7136fc76-7654-4833-b31a-520c54c1c754/sd2.mp4",
+                    "width": 480,
+                    "height": 270,
+                    "size": 55300559
+                  },
+                  {
+                    "s3Url": "https://content.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/7136fc76-7654-4833-b31a-520c54c1c754/hd2.mp4",
+                    "width": 1280,
+                    "height": 720,
+                    "size": 219166275
+                  }
+                ],
+                "audioFiles": [
+                  {
+                    "s3Url": "https://content.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/7136fc76-7654-4833-b31a-520c54c1c754/audio.mp3",
+                    "size": 64998786
+                  }
+                ],
+                "duration": "PT3179.967S",
+                "primaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/7136fc76-7654-4833-b31a-520c54c1c754/thumbnails1",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "secondaryThumbnails": {
+                  "baseUrl": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/7136fc76-7654-4833-b31a-520c54c1c754/thumbnails2",
+                  "ext": "jpg",
+                  "thumbnailIds": [ 0, 60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 960, 1020, 1080, 1140, 1200, 1260, 1320, 1380, 1440, 1500, 1560, 1620, 1680, 1740, 1800, 1860, 1920, 1980, 2040, 2100, 2160, 2220, 2280, 2340, 2400, 2460, 2520, 2580, 2640, 2700, 2760, 2820, 2880, 2940, 3000, 3060, 3120 ]
+                },
+                "primaryPosterImageUri": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/7136fc76-7654-4833-b31a-520c54c1c754/poster1.jpg",
+                "secondaryPosterImageUri": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/7136fc76-7654-4833-b31a-520c54c1c754/poster2.jpg",
+                "introDuration": "PT0S",
+                "outroDuration": "PT0S",
+                "processedWithEdits": false,
+                "preliminary": false
+              },
+              "duration": 3179967,
+              "thumbnailUrl": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/7136fc76-7654-4833-b31a-520c54c1c754/poster1.jpg",
+              "isAudio": false,
+              "type": "VideoPresentation"
+            },
+            "tags": [],
+            "isPublishable": true,
+            "mediaType": "Video"
+          },
+          "published": {
+            "lessonId": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-26T09:00:00.000_2018-09-26T09:53:00.000",
+            "mediaId": "7136fc76-7654-4833-b31a-520c54c1c754",
+            "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+            "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+            "termName": "Fall 2018",
+            "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+            "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+            "lessonName": "CS 241-AL1",
+            "lessonTiming": {
+              "start": "2018-09-26T09:00:00.000",
+              "end": "2018-09-26T09:53:00.000"
+            },
+            "timeZone": {
+              "id": "US/Central",
+              "name": "(-06:00) US/Central",
+              "standardOffset": "PT-6H"
+            },
+            "courseName": "CS241 - System Programming",
+            "contentAvailability": {
+              "body": {},
+              "type": "Immediate"
+            },
+            "mediaType": "Video",
+            "createdAt": "2018-09-26T14:55:45.011Z",
+            "isAvailable": true,
+            "isDeleted": false,
+            "availabilityString": "Library.immediate",
+            "publishableMediaId": "7136fc76-7654-4833-b31a-520c54c1c754"
+          },
+          "copyable": true
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/7136fc76-7654-4833-b31a-520c54c1c754/poster1.jpg",
+        "hasContent": true,
+        "hasAvailableVideo": true,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "7136fc76-7654-4833-b31a-520c54c1c754",
+            "title": "CS 241-AL1",
+            "mediaType": "Video",
+            "coverImage": "https://thumbnails.echo360.org/bee3.d422df75-c848-4e5e-b375-e46893d4de8a/7136fc76-7654-4833-b31a-520c54c1c754/poster1.jpg",
+            "isScheduled": false,
+            "isAvailable": true,
+            "isViewed": false,
+            "isDownloadable": true,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isOwned": false,
+            "downloadUri": "/media/download/original?mediaId=7136fc76-7654-4833-b31a-520c54c1c754&fileName=CS+241-AL1",
+            "canCopy": true
+          },
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": true,
+        "isFuture": false,
+        "startTimeUTC": "2018-09-26T14:00:00.000Z",
+        "endTimeUTC": "2018-09-26T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-09-28T09:00:00.000_2018-09-28T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20180928T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-09-28T09:00:00.000",
+            "end": "2018-09-28T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-09-28T14:00:00.000Z",
+        "endTimeUTC": "2018-09-28T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-01T09:00:00.000_2018-10-01T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181001T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-01T09:00:00.000",
+            "end": "2018-10-01T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-01T14:00:00.000Z",
+        "endTimeUTC": "2018-10-01T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-03T09:00:00.000_2018-10-03T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181003T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-03T09:00:00.000",
+            "end": "2018-10-03T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-03T14:00:00.000Z",
+        "endTimeUTC": "2018-10-03T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-05T09:00:00.000_2018-10-05T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181005T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-05T09:00:00.000",
+            "end": "2018-10-05T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-05T14:00:00.000Z",
+        "endTimeUTC": "2018-10-05T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-08T09:00:00.000_2018-10-08T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181008T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-08T09:00:00.000",
+            "end": "2018-10-08T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-08T14:00:00.000Z",
+        "endTimeUTC": "2018-10-08T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-10T09:00:00.000_2018-10-10T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181010T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-10T09:00:00.000",
+            "end": "2018-10-10T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-10T14:00:00.000Z",
+        "endTimeUTC": "2018-10-10T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-12T09:00:00.000_2018-10-12T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181012T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-12T09:00:00.000",
+            "end": "2018-10-12T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-12T14:00:00.000Z",
+        "endTimeUTC": "2018-10-12T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-15T09:00:00.000_2018-10-15T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181015T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-15T09:00:00.000",
+            "end": "2018-10-15T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-15T14:00:00.000Z",
+        "endTimeUTC": "2018-10-15T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-17T09:00:00.000_2018-10-17T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181017T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-17T09:00:00.000",
+            "end": "2018-10-17T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-17T14:00:00.000Z",
+        "endTimeUTC": "2018-10-17T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-19T09:00:00.000_2018-10-19T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181019T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-19T09:00:00.000",
+            "end": "2018-10-19T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-19T14:00:00.000Z",
+        "endTimeUTC": "2018-10-19T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-22T09:00:00.000_2018-10-22T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181022T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-22T09:00:00.000",
+            "end": "2018-10-22T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-22T14:00:00.000Z",
+        "endTimeUTC": "2018-10-22T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-24T09:00:00.000_2018-10-24T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181024T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-24T09:00:00.000",
+            "end": "2018-10-24T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-24T14:00:00.000Z",
+        "endTimeUTC": "2018-10-24T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-26T09:00:00.000_2018-10-26T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181026T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-26T09:00:00.000",
+            "end": "2018-10-26T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-26T14:00:00.000Z",
+        "endTimeUTC": "2018-10-26T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-29T09:00:00.000_2018-10-29T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181029T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-29T09:00:00.000",
+            "end": "2018-10-29T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-29T14:00:00.000Z",
+        "endTimeUTC": "2018-10-29T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-10-31T09:00:00.000_2018-10-31T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181031T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-10-31T09:00:00.000",
+            "end": "2018-10-31T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-10-31T14:00:00.000Z",
+        "endTimeUTC": "2018-10-31T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-11-02T09:00:00.000_2018-11-02T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181102T1400",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-11-02T09:00:00.000",
+            "end": "2018-11-02T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-11-02T14:00:00.000Z",
+        "endTimeUTC": "2018-11-02T14:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-11-05T09:00:00.000_2018-11-05T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181105T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-11-05T09:00:00.000",
+            "end": "2018-11-05T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-11-05T15:00:00.000Z",
+        "endTimeUTC": "2018-11-05T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-11-07T09:00:00.000_2018-11-07T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181107T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-11-07T09:00:00.000",
+            "end": "2018-11-07T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-11-07T15:00:00.000Z",
+        "endTimeUTC": "2018-11-07T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-11-09T09:00:00.000_2018-11-09T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181109T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-11-09T09:00:00.000",
+            "end": "2018-11-09T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-11-09T15:00:00.000Z",
+        "endTimeUTC": "2018-11-09T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-11-12T09:00:00.000_2018-11-12T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181112T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-11-12T09:00:00.000",
+            "end": "2018-11-12T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-11-12T15:00:00.000Z",
+        "endTimeUTC": "2018-11-12T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-11-14T09:00:00.000_2018-11-14T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181114T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-11-14T09:00:00.000",
+            "end": "2018-11-14T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-11-14T15:00:00.000Z",
+        "endTimeUTC": "2018-11-14T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-11-16T09:00:00.000_2018-11-16T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181116T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-11-16T09:00:00.000",
+            "end": "2018-11-16T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-11-16T15:00:00.000Z",
+        "endTimeUTC": "2018-11-16T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-11-26T09:00:00.000_2018-11-26T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181126T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-11-26T09:00:00.000",
+            "end": "2018-11-26T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-11-26T15:00:00.000Z",
+        "endTimeUTC": "2018-11-26T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-11-28T09:00:00.000_2018-11-28T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181128T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-11-28T09:00:00.000",
+            "end": "2018-11-28T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-11-28T15:00:00.000Z",
+        "endTimeUTC": "2018-11-28T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-11-30T09:00:00.000_2018-11-30T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181130T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-11-30T09:00:00.000",
+            "end": "2018-11-30T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-11-30T15:00:00.000Z",
+        "endTimeUTC": "2018-11-30T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-12-03T09:00:00.000_2018-12-03T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181203T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-12-03T09:00:00.000",
+            "end": "2018-12-03T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-12-03T15:00:00.000Z",
+        "endTimeUTC": "2018-12-03T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-12-05T09:00:00.000_2018-12-05T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181205T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-12-05T09:00:00.000",
+            "end": "2018-12-05T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-12-05T15:00:00.000Z",
+        "endTimeUTC": "2018-12-05T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-12-07T09:00:00.000_2018-12-07T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181207T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-12-07T09:00:00.000",
+            "end": "2018-12-07T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-12-07T15:00:00.000Z",
+        "endTimeUTC": "2018-12-07T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-12-10T09:00:00.000_2018-12-10T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181210T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-12-10T09:00:00.000",
+            "end": "2018-12-10T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-12-10T15:00:00.000Z",
+        "endTimeUTC": "2018-12-10T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    },
+    {
+      "lesson": {
+        "lesson": {
+          "id": "G_fc164d0a-fc39-46f6-a95f-7b6755bb995e_0f681b91-e357-4c4b-9607-4e2e302d2245_2018-12-12T09:00:00.000_2018-12-12T09:53:00.000",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "captureOccurrenceId": "fc164d0a-fc39-46f6-a95f-7b6755bb995e_20181212T1500",
+          "name": "CS 241-AL1",
+          "timing": {
+            "start": "2018-12-12T09:00:00.000",
+            "end": "2018-12-12T09:53:00.000"
+          },
+          "timeZone": {
+            "id": "US/Central",
+            "name": "(-06:00) US/Central",
+            "standardOffset": "PT-6H"
+          },
+          "fromSchedule": true,
+          "shouldStreamLive": false,
+          "createdAt": "2018-09-27T22:27:50.891Z",
+          "updatedAt": "2018-09-27T22:27:50.891Z",
+          "displayName": "CS 241-AL1"
+        },
+        "userSection": {
+          "userId": "2143bda1-7bed-4aac-ac6b-bbb15c2e86f2",
+          "institutionId": "d422df75-c848-4e5e-b375-e46893d4de8a",
+          "role": "Instructor",
+          "sectionId": "0f681b91-e357-4c4b-9607-4e2e302d2245",
+          "sectionNumber": "AL1",
+          "courseId": "86b3925a-eb18-4f70-9eb4-c2316c2e3591",
+          "termId": "4da0b09f-516e-4007-8926-50ea94bab6b9",
+          "sectionType": "CourseSection"
+        },
+        "questionCount": 0,
+        "hideUncaptionedVideo": false,
+        "contentDownloads": true,
+        "audioDownloadsOnly": false,
+        "noLessonDate": false,
+        "isScheduled": true,
+        "coverImage": "",
+        "hasContent": false,
+        "hasAvailableVideo": false,
+        "hasAvailableSlideDeck": false,
+        "hasVideo": true,
+        "hasSlideDeck": false,
+        "medias": [
+          {
+            "id": "fc164d0a-fc39-46f6-a95f-7b6755bb995e",
+            "mediaType": "Video",
+            "isScheduled": true,
+            "isAvailable": false,
+            "isViewed": false,
+            "isDownloadable": false,
+            "isProcessing": false,
+            "isFailed": false,
+            "isPreliminary": false,
+            "isCapturing": false,
+            "isOwned": false,
+            "downloadUri": "",
+            "canCopy": false
+          }
+        ],
+        "isLive": false,
+        "isPast": false,
+        "isFuture": true,
+        "startTimeUTC": "2018-12-12T15:00:00.000Z",
+        "endTimeUTC": "2018-12-12T15:53:00.000Z"
+      },
+      "type": "SyllabusLessonType"
+    }
+  ]
+}

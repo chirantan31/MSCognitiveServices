@@ -1,0 +1,89 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Email</title>
+        <link rel="stylesheet" media="screen" href="/assets/lib/echo360-microservice-styles/css/echo360.css">
+        <link rel="stylesheet" media="screen" href="/assets/stylesheets/main.css">
+        <link rel="shortcut icon" type="image/png" href="/assets/lib/echo360-microservice-styles/images/favicon.png">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    <script type="text/javascript">
+            function showLoader() {
+                document.getElementById("submitBtn").setAttribute("disabled", "true");
+                document.getElementById("loader").style.display = null;
+                document.getElementById("submitText").style.display = "none";
+            }
+    </script>
+    
+
+        <style>
+        </style>
+    </head>
+    <body>
+        
+            <header class="echo-header">
+                <img src="/assets/lib/echo360-microservice-styles/images/echo360-nav-logo.png" alt="">
+                <nav></nav>
+            </header>
+        
+        <div role="main">
+        
+
+    <h1 class="centered">Enter email</h1>
+    <h3 class="centered">
+        Enter your school assigned email address. If your school uses single sign-on you will be redirected to the appropriate login page.</h3>
+
+    <div class="echo-flash error"></div>
+
+     
+
+<form action="/login/institutions" method="POST" class="echo-form centered" onsubmit="showLoader()" id="login-form">
+    
+        
+            <div class="echo-form-group">
+                <label for="email" class="">Email</label>
+                <div class="echo-input-group">
+                    <input name="email" id="email" value="" placeholder="" type="email" autocomplete="on">
+                    <div class="error"></div>
+                </div>
+            </div>
+        
+        
+            <input type="hidden" name="appId" id="appId" value="c08c41ee-50e3-45e8-a6e6-e9579b28f620">
+        
+        
+            <input type="hidden" name="requestedResource" id="requestedResource" value="">
+        
+        <div class="echo-btn-group">
+        
+            <button id="submitBtn" type="submit" value="submit" class="echo-btn primary">
+            
+                <div id="loader" style="display:none;" class="echo-loading loader">
+                    <div class="echo-loading-group">
+                        <span></span><span></span><span></span>
+                    </div>
+                </div>
+                <span id="submitText">Submit</span>
+            </button>
+        </div>
+        <!-- this will be deprecated, hence the quick inline css -->
+        <p style="text-align: center">
+            <a href="https://echo360.org/user/i/new">Sign up as a new user</a>
+                &nbsp;&nbsp;&nbsp;
+            <a href="https://echo360.org/directLogin">Alternate login</a>
+        </p>
+    
+</form>
+
+
+
+        </div>
+    </body>
+</html>
+
